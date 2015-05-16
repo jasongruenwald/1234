@@ -1,0 +1,91 @@
+10
+
+dir
+0
+https://github.com:443/jasongruenwald/androidapp2.git/www
+https://github.com:443/jasongruenwald/androidapp2.git
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+daf177fe-f13d-9f63-9eb7-ce57b7db7bff
+
+css
+dir
+
+
+
+add
+
+res
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+spec
+dir
+
+
+
+add
+
+icon.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+img
+dir
+
+
+
+add
+
+js
+dir
+
+
+
+add
+
+spec.html
+file
+
+
+
+add
+

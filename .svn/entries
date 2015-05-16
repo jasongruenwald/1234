@@ -1,0 +1,63 @@
+10
+
+dir
+0
+https://github.com:443/jasongruenwald/androidapp2.git
+https://github.com:443/jasongruenwald/androidapp2.git
+
+
+
+2015-05-09T17:36:34.484814Z
+0
+
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+daf177fe-f13d-9f63-9eb7-ce57b7db7bff
+
+plugins
+dir
+
+
+
+add
+
+config.xml
+file
+
+
+
+add
+
+www
+dir
+
+
+
+add
+
+platforms
+dir
+
+
+
+add
+
+.cordova
+dir
+
+
+
+add
+
