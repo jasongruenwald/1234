@@ -54,6 +54,16 @@
 		}
    </style>
 
+
+  <script>
+
+  $(function() {
+
+    $( "#draggable" ).draggable();
+
+  });
+
+  </script>
         
         
     </head>
@@ -92,7 +102,13 @@
     <br /> <br /><br />
 <a class="btn" id="show_image">Show Image</a>
 <br /><br /><br /><br />
+
+<div id="draggable" class="ui-widget-content">
 <img id="my_images" style="display:none;" src="img/mr-personality-sm.jpg" width="100%">
+  <p>Drag me around</p>
+
+</div>
+
 
 <script src="js/jquery.min.js"></script>
 <script>
@@ -106,6 +122,11 @@
 </div>
         </div>
         
+
+
+
+
+
         
         
         
